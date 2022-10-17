@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi I'm Avdhut Malankar (Developer / Designer) 👋
 
-<!--
-**Malankar/Malankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Developer familiar with frontend and improvising on backend skills. I was a freelance 3D concept artist and one of my artwork got featured on MDC (Motion Designers Community). I love making designs and developing from scratch. Some of my familiar stack is: 
 
-Here are some ideas to get you started:
+```
+Programming Languages: Javascript, Typescript, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: Reactjs, Nextjs, Tailwindcss, Bootstrap 
+
+Backend: MongoDB, Firebase, Nodejs
+
+Version Control: Git & GitHub
+
+Additional: Docker, Nginx
+
+Currently Learning: NestJs, Golang
+```
+### Keep Learning, Keep Growing! 📈
+
+
+
+
