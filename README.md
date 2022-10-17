@@ -9,6 +9,8 @@ Frontend: Reactjs, Nextjs, Tailwindcss, Bootstrap
 
 Backend: MongoDB, Firebase, Nodejs
 
+Designing: Figma, AdobeXD
+
 Version Control: Git & GitHub
 
 Additional: Docker, Nginx
