@@ -3,7 +3,7 @@
 I am a Web Developer & Designer. I was also a freelance 3D concept artist. I love making designs and developing them from scratch. Some of my familiar stacks are: 
 
 ```
-Programming Languages: Javascript, Typescript, Python
+Programming Languages: Java, Javascript, Typescript, Python
 
 Frontend: Reactjs, Nextjs, Tailwindcss, Bootstrap 
 
@@ -13,7 +13,7 @@ Designing: Figma, AdobeXD
 
 Version Control: Git & GitHub
 
-Additional: Docker, Nginx
+Additional: Docker
 
 Currently Learning: NestJs, Golang
 ```
